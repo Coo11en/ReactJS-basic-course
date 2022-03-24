@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.TitleHeader {
+    text-align: center;
+    border: 1px solid #000000;
+    height: calc(10% - 2px);
+    width: 650px;
+    margin: 0 auto;
+}
+
+.conteiner {
+    width: 650px;
+    margin: 0 auto;
+}
+
+.conteiner2 {
+    width: 650px;
+    margin: 0 auto;
+    background-color: #cccccc;
+    height: calc(100vh - 10% - 2px);
+}
+
+.liststyle{
+    font-size: 24px;
+    color: #002fff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+
+.inputStyle {
+    width: calc(60% - 8px);
+    height: 40px;
+    background-color: rgb(60, 255, 190);
+}
+
+.inputStyleAutohor {
+    width: 25%;
+    height: 40px;
+    background-color: rgb(60, 255, 190);
+
+}
+
+.btnStyle {
+    width: 15%;
+    height: 40px;
+
+}

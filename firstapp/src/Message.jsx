@@ -1,12 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 
 
 const Message = (props) => {
     return (
-        <div>
+        <>
             <p>{props.message.value}</p>
             <strong>{props.message.author}</strong>
-        </div>
+        </>
 
     )
 }
